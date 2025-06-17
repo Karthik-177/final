@@ -592,7 +592,9 @@ section p {
 
 .service-card .card-img {
     max-width: 100%;
-    height: auto;
+    height: 200px;
+    width: auto;
+    object-fit: contain;
     margin-bottom: 25px;
     display: block;
     margin-left: auto;
@@ -652,7 +654,9 @@ section p {
 
 .product-card .card-img {
     max-width: 100%;
-    height: auto;
+    height: 200px;
+    width: auto;
+    object-fit: contain;
     display: block;
     margin-bottom: 15px;
 }
@@ -1448,7 +1452,9 @@ section h2::after {
 
 .service-card .card-img {
     max-width: 100%;
-    height: auto;
+    height: 200px;
+    width: auto;
+    object-fit: contain;
     margin-bottom: 25px;
     display: block;
     margin-left: auto;
@@ -1485,7 +1491,9 @@ section h2::after {
 
 .product-card .card-img {
     max-width: 100%;
-    height: auto;
+    height: 200px;
+    width: auto;
+    object-fit: contain;
     display: block;
     margin-bottom: 15px;
 }
